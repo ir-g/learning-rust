@@ -2,8 +2,9 @@
 install(){
 echo "Rust installer not yet available                 "
 echo "Goto http://www.rust-lang.org/                   "
+echo "Or type 'parts install rust'                     "
 echo "*************************************************"
-echo
+echo "                                                 "
 
 }
 compile(){
